@@ -8,7 +8,12 @@
 - High 
 - Low
 
-## Result
-![image](https://user-images.githubusercontent.com/48129546/223298658-741a25bd-08e8-4161-b655-9fbae5729c4b.png)
-![image](https://user-images.githubusercontent.com/48129546/223298670-2009a04b-7294-43c9-a9e5-8c27a6d9797c.png)
+## Results
+![image](https://user-images.githubusercontent.com/48129546/223298954-c59aa5f1-eed2-4485-a503-59b213083980.png)
+![image](https://user-images.githubusercontent.com/48129546/223298990-3281b7b2-fcef-4996-b725-0f612adbcacb.png)
+![image](https://user-images.githubusercontent.com/48129546/223298977-f425e1de-5733-4ce8-8a31-181b0e719d5e.png)
+
+## Demonstration
+Please find the jupyter notebook in the following link.
+https://colab.research.google.com/drive/1TXu_ugVSSkJky0HIhCgMwsKfiPltrUqo
 
